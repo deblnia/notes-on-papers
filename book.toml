@@ -1,0 +1,8 @@
+[book]
+authors = ["deblina"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Notes on Papers"
+[output.html]
+mathjax-support = true
