@@ -8,3 +8,4 @@
 - [The Ethnographer and the Algorithm: Beyond the Black Box](./ethnographer.md)
 - [A Bureaucratic Theory of Statistics](./bureaucratic.md)
 - [A Quest for Knowledge](./questforknowledge.md)
+- [The Civic Labor of Volunteer Moderators Online](./civiclabor.md)
