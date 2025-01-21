@@ -7,4 +7,3 @@
 - Civic labor describes the authority that is defined through negotiations with these commercial, civic, and peer stakeholders 
 - Harassment is the main harm risked by mods 
 - The language of governance comes up frequently whne you investigate and analyze moderator behavior 
-- 
