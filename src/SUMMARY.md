@@ -7,3 +7,4 @@
 - [How Not to Analyze Data](./hownot.md)
 - [The Ethnographer and the Algorithm: Beyond the Black Box](./ethnographer.md)
 - [A Bureaucratic Theory of Statistics](./bureaucratic.md)
+- [A Quest for Knowledge](./questforknowledge.md)
