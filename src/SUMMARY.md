@@ -10,3 +10,4 @@
 - [A Quest for Knowledge](./questforknowledge.md)
 - [The Civic Labor of Volunteer Moderators Online](./civiclabor.md)
 - [Quantifying dynamics of failure across science, startups, and security](./quantifyingdynamics.md)
+- [Incentivizing High-Quality Content in Online Recommender Systems](./incentizinghighqual.md)
